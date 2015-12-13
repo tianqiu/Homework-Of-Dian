@@ -1,0 +1,4 @@
+PPT是讲课用的PPT，给了两个key和pptx两个版本，大家可以参考
+demos里面是一些可以参考的示例页面
+FSCapture里面是window用的取色和测量工具，mac上的可自行找工具
+template是模版程序，建议大家按照这个结构来写

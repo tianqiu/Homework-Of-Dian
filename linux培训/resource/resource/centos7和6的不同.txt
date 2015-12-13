@@ -1,0 +1,7 @@
+centos7和6的不同：
+1、rc.local需要手动添加执行权限
+2、网卡配置文件名变更，路径未变
+3、主机名修改要修改/etc/hostname
+4、部分服务移到了/sbin/下
+5、想改runlevel的话，可以把/lib/systemd/system/runlevel*.target 软连到 /etc/systemd/system/default.target下
+6、缺省使用XFS文件系统

@@ -1,0 +1,3 @@
+1、linux有root这个用户组，有一些任务之能够由root权限才能执行，比如文件新建写入或者修改
+2、sudo能运行的条件是用户属于sudo组，sudoer文件中配置的用户有root权限，sudo的配置显然是
+3、sudo只是保护root权限不滥用，其根本还是调用root用户的权限，不能取代root用户。
